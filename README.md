@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I am Prnika 👋
 
 
 
@@ -9,4 +9,3 @@
 - 💬 Ask me about ...Data, Algorithms and Programming with technical skills
 - 📫 How to reach me: ...https://www.linkedin.com/in/prnika-bakshi-562654167
 - ⚡ Fun fact: ...Headphones in Problems out! 
--->
