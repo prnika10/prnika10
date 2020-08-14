@@ -8,4 +8,5 @@
 - 🤔 I’m looking for help with:Mentors
 - 💬 Ask me about:Data, Algorithms and Programming with technical skills
 - 📫 How to reach me:https://www.linkedin.com/in/prnika-bakshi-562654167
-- ⚡ Fun fact: Headphones in Problems out! 
+- ⚡ Fun fact: Headphones in Problems out!!! 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prnika10)](https://github.com/prnika10/github-readme-stats) 
