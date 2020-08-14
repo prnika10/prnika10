@@ -13,5 +13,3 @@
 
 ![Prnika's github stats](https://github-readme-stats.vercel.app/api?username=prnika10&show_icons=true&theme=synthwave)
 ![]() 
-! (https://www.github.com/prnika10) 
-! [https://www.linkedin.com/in/pprnika-bakshi-562654167] 
