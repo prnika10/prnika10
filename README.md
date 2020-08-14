@@ -12,3 +12,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prnika10)](https://github.com/prnika10/github-readme-stats) 
 
 ![Prnika's github stats](https://github-readme-stats.vercel.app/api?username=prnika10&show_icons=true&theme=synthwave)
+![](https://komarev.com/ghpvc/?username=prnika10&color=pink)
