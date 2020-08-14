@@ -10,4 +10,4 @@
 - 📫 How to reach me:https://www.linkedin.com/in/prnika-bakshi-562654167
 - ⚡ Fun fact: Headphones in Problems out!!! 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prnika10)](https://github.com/prnika10/github-readme-stats) 
-https://github-readme-stats.vercel.app/api?username=prnika10&theme=synthwave&show_icons=true
+
