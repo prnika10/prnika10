@@ -1,5 +1,10 @@
 <h1 align="center"> Hi there I am Prnika 👋</h1>
+<h2 align="center"> Microsoft Learn Student Ambassador 
+  Google DSC Lead 
+  Gender Champion under UGC 
+  Global Ambassador in womenInTechNet </h2>
 <h3 align="center">Anything is possible !</h3>
+
 
 
 ![](https://komarev.com/ghpvc/?username=prnika10&color=green) 
