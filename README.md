@@ -1,5 +1,6 @@
 <h1 align="center"> Hi there I am Prnika 👋</h1>
-<h2 align="center"> -Microsoft Learn Student Ambassador 
+<h2 align="center"> 
+  -Microsoft Learn Student Ambassador 
   -Google DSC Lead 
   -Gender Champion under UGC 
   -Global Ambassador in womenInTechNet </h2>
