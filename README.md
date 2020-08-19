@@ -9,6 +9,9 @@
 - 💬 Ask me about:Data, Algorithms and programming with technical skills
 - 📫 How to reach me:prnikaa@gmail.com
 - ⚡ Fun fact: Headphones in Problems out!!! 
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prnika10)](https://github.com/prnika10/github-readme-stats) 
 
 ![Prnika's github stats](https://github-readme-stats.vercel.app/api?username=prnika10&show_icons=true&theme=synthwave)
