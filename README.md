@@ -25,7 +25,7 @@
 
 
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/prnika-bakshi-562654167/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/prnika-bakshi-562654167/" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/-prnika-bakshi-562654167/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/-prnika-bakshi-562654167/" height="20" width="20" /></a>
 <a href="https://medium.com/@prnikaa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@prnikaa" height="20" width="20" /></a>
 </a>
 </p>
