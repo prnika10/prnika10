@@ -29,6 +29,7 @@ and I am learning about ***Cloud Technology*** in that program with **Azure**<br
 <p align="center">
 <a href="https://www.linkedin.com/in/prnika-bakshi-she-her-562654167?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BwGSoCCh7SQ6rTmhhHs793A%3D%3D">
   <img align="left" src="https://img.icons8.com/plasticine/100/000000/linkedin.png" height="70" width="70" ></a>
-<a href="https://medium.com/@prnikaa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@prnikaa" height="20" width="20" /></a>
+<a href="https://medium.com/@prnikaa" >
+  <img align="center" src="<img src="https://img.icons8.com/bubbles/50/000000/medium-new.png"> height="70" width="70" /></a>
 </a>
 </p>
