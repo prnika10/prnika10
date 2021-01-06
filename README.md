@@ -2,12 +2,13 @@
 
 
 <h3 align="center"> Anything is possible!</h3>
+
+![](https://komarev.com/ghpvc/?username=prnika10&color=orange) 
   
 <img align='right' src="https://cdn.dribbble.com/users/4363684/screenshots/9638918/media/5931834289e76b81c9415e6f6ef32f5a.gif" width="500">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prnika10)](https://github.com/prnika10/github-readme-stats)
-
-![](https://komarev.com/ghpvc/?username=prnika10&color=orange) 
+ 
 - 🔭 I’m currently pursuing Bachelor's in **Information Science**<br>
 - Presently I am improving my ***coding skills***<br>
 - A Udacity **bertelsmann scholarship challenge scholar**<br>
