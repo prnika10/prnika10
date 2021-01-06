@@ -8,8 +8,8 @@
 
 ![](https://komarev.com/ghpvc/?username=prnika10&color=orange) 
 - 🔭 I’m currently pursuing Bachelor's in **Information Science**<br>
-Presently I am improving my ***coding skills***<br>
-I am prsently  Udacity **bertelsmann scholarship challenge scholar**<br>
+-Presently I am improving my ***coding skills***<br>
+-A Udacity **bertelsmann scholarship challenge scholar**<br>
 and I am learning about ***Cloud Technology*** in that program with **Azure**<br>
 - 📫 How to reach me:**prnikaa@gmail.com**
 - ⚡ Fun fact: **Headphones in Problems out❤!!!**
