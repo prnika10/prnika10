@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there I am Prnika 👋 <img src ="https://media.tenor.com/images/1f800d805cf1758823b8afd7636c6ff5/tenor.gif" width="50"</h1>
+<h1 align="center"> Hi there I am Prnika 👋 <img src ="https://media.tenor.com/images/1f800d805cf1758823b8afd7636c6ff5/tenor.gif" width="80"</h1>
 
 <h2 align="center"> 
   -Microsoft Learn Student Ambassador 
