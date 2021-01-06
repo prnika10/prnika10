@@ -10,7 +10,7 @@
 
 ![](https://komarev.com/ghpvc/?username=prnika10&color=orange) 
   
-<img align='right' src="https://cdn.dribbble.com/users/4363684/screenshots/9638918/media/5931834289e76b81c9415e6f6ef32f5a.gif" width="500">
+<img align='right' src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif" width="500">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prnika10)](https://github.com/prnika10/github-readme-stats)
  
