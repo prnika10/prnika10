@@ -11,6 +11,7 @@
 - Presently I am improving my ***coding skills***<br>
 - A Udacity **bertelsmann scholarship challenge scholar**<br>
 and I am learning about ***Cloud Technology*** in that program with **Azure**<br>
+- I am  **BETA Microsoft Learn Student Ambassador as well as a **Developers Student Club Lead**
 - 📫 How to reach me:**prnikaa@gmail.com**
 - ⚡ Fun fact: **Headphones in Problems out❤!!!**
 
