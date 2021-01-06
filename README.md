@@ -7,12 +7,8 @@
 
 
 ![](https://komarev.com/ghpvc/?username=prnika10&color=orange) 
-- 🔭 I’m currently improving my **coding skills**
-- 🌱 I’m currently learning **Machine Learning**
-- 👯 I’m looking forward to learn about **Azure** 
-- 🤔 I’m thinking to **make and deploy applications**
-- 📝 I regulary write articles on **memyselfpb.blogspot.in**
-- 💬 Ask me about:**Data Structures, Algorithms and programming**
+- 🔭 I’m currently pursuing Bachelor's in **Information Science**<br>
+Presently I am improving my ***coding skills***:smile:<br>
 - 📫 How to reach me:**prnikaa@gmail.com**
 - ⚡ Fun fact: **Headphones in Problems out❤!!!**
 
