@@ -44,6 +44,7 @@ and I am learning about ***Cloud Technology*** in that program with **Azure**<br
 
 
 
-
+<p1 align ="left">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prnika10)](https://github.com/prnika10/github-readme-stats)
+<p1/>
