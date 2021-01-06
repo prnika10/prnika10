@@ -2,6 +2,9 @@
 
 
 <h3 align="center"> Anything is possible!</h3>
+<img align='left' src="https://media4.giphy.com/media/Qakyyrk1IKwuK8YtQ6/giphy.gif" width="300">
+
+
 
 ![](https://komarev.com/ghpvc/?username=prnika10&color=orange) 
   
