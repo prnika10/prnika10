@@ -13,7 +13,7 @@
 - A Udacity **bertelsmann scholarship challenge scholar**<br>
 and I am learning about ***Cloud Technology*** in that program with **Azure**<br>
 - I am a **BETA Microsoft Learn Student Ambassador**[@Microsoft](https://studentambassadors.microsoft.com/en-US/profile/55368) as well as a **Developers Student Club Lead**[@GoogleDevelopers](https://dsc.community.dev/u/m4eyp5/)
-- ⚡ Fun fact: **Headphones in Problems out❤!!!**<img align='left' src="https://pixy.org/src/92/920294.gif" width="40">
+- ⚡ Fun fact: **Headphones in Problems out❤!!!**<img align='right' src="https://pixy.org/src/92/920294.gif" width="100">
 
 
 
