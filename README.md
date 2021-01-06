@@ -13,7 +13,7 @@
 - A Udacity **bertelsmann scholarship challenge scholar**<br>
 and I am learning about ***Cloud Technology*** in that program with **Azure**<br>
 - I am a **BETA Microsoft Learn Student Ambassador**[@Microsoft](https://studentambassadors.microsoft.com/en-US/profile/55368) as well as a **Developers Student Club Lead**[@GoogleDevelopers](https://dsc.community.dev/u/m4eyp5/)
-- ⚡ Fun fact: **Headphones in Problems out❤!!!**<img align='right' src="https://pixy.org/src/92/920294.gif" width="100">
+- ⚡ Fun fact: **Headphones in Problems out❤!!!**
 
 
 
@@ -36,3 +36,4 @@ and I am learning about ***Cloud Technology*** in that program with **Azure**<br
   <img align="left" src="https://img.icons8.com/color/48/000000/reading-unicorn.png" height="50" width="50" ></a>
 </a>
 </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prnika10)](https://github.com/prnika10/github-readme-stats)
