@@ -8,7 +8,7 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=prnika10&color=pink) 
+![](https://komarev.com/ghpvc/?username=prnika10&color=orange) 
 - 🔭 I’m currently improving my **coding skills**
 - 🌱 I’m currently learning **Machine Learning**
 - 👯 I’m looking forward to learn about **Azure** 
