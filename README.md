@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there I am Prnika 👋</h1>
-![](https://media.tenor.com/images/1f800d805cf1758823b8afd7636c6ff5/tenor.gif)
+![Alt Text](https://media.tenor.com/images/1f800d805cf1758823b8afd7636c6ff5/tenor.gif)
 <h2 align="center"> 
   -Microsoft Learn Student Ambassador 
   -Google DSC Lead 
