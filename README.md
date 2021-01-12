@@ -43,6 +43,19 @@ and I am learning about ***Cloud Technology*** in that program with **Azure**<br
   <img align="left" src="https://img.icons8.com/color/48/000000/reading-unicorn.png" height="40" width="50" ></a>
 </a>
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prnika10)](https://github.com/prnika10/github-readme-stats)
 
 
