@@ -38,7 +38,7 @@ and I am learning about ***Cloud Technology*** in that program with **Azure**<br
 <a href="https://medium.com/@prnikaa" >
   <img align="left"src="https://img.icons8.com/bubbles/50/000000/medium-new.png" height="50" width="50" ></a>
  <a href="mailto:prnikaa@gmail.com" >
-  <img align="left" src="https://img.icons8.com/dusk/50/000000/gmail-login.png" height="40" width="40" ></a>
+  <img align="left" src="https://img.icons8.com/dusk/50/000000/gmail-login.png" height="40" width="30" ></a>
    <a href="http://memyselfpb.blogspot.com/" >
   <img align="left" src="https://img.icons8.com/color/48/000000/reading-unicorn.png" height="40" width="50" ></a>
 </a>
