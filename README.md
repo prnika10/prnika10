@@ -14,7 +14,7 @@
   
 <img align='right' src="https://cdn.dribbble.com/users/4363684/screenshots/9638918/media/5931834289e76b81c9415e6f6ef32f5a.gif" width="400">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prnika10)](https://github.com/prnika10/github-readme-stats)
+
  
 - 🔭 I’m currently pursuing Bachelor's in **Information Science**<br>
 - Presently I am improving my ***coding skills***<br>
@@ -43,7 +43,7 @@ and I am learning about ***Cloud Technology*** in that program with **Azure**<br
   <img align="left" src="https://img.icons8.com/color/48/000000/reading-unicorn.png" height="40" width="50" ></a>
 </a>
 </p>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prnika10)](https://github.com/prnika10/github-readme-stats)
 
 
 
