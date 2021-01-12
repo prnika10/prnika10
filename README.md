@@ -52,11 +52,7 @@ and I am learning about ***Cloud Technology*** in that program with **Azure**<br
 
 
 
-
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prnika10)](https://github.com/prnika10/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prnika10&layout=compact)](https://github.com/prnika10/github-readme-stats)
 
 
 
