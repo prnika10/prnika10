@@ -44,6 +44,12 @@ and I am learning about ***Cloud Technology*** in that program with **Azure**<br
 </a>
 </p>
 
+
+
+
+
+
+
 <img align='left' src="https://media2.giphy.com/media/U7bl3Rw7ya7isgzVt3/giphy.gif?cid=ecf05e474xnhe4tjoymga3vh0aji6cqy8ceis9emjcvxwhgf&rid=giphy.gif" width="300">
 
 
