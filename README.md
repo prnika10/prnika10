@@ -16,7 +16,7 @@
 
 
  
-- 🔭 I’m currently pursuing Bachelor's in **Information Science**<br>
+- 🔭 I’m currently pursuing Bachelor's in **Information Technology**<br>
 - Presently I am improving my ***coding skills***<br>
 - A Udacity **bertelsmann scholarship challenge scholar**<br>
 and I am learning about ***Cloud Technology*** in that program with **Azure**<br>
