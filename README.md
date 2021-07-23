@@ -57,7 +57,7 @@
 
 
 
-
+![](https://github-profile-trophy.vercel.app/?username=prnika10&column=3)
 
 
 
@@ -76,7 +76,7 @@
 
 
 
-![](https://github-profile-trophy.vercel.app/?username=prnika10&column=3)
+
 
 
 
