@@ -29,7 +29,7 @@
  Former Google Developers Student Club Lead (2020-2021)[@GoogleDevelopers](https://dsc.community.dev/u/m4eyp5/)<br>
 - ⚡**Fun fact about me**:<br> 
  Blindfold coder<br>
- Freelancer
+ Freelancer<br>
  Digital Planner maker can check my work [here](https://www.fiverr.com/share/0eLKLL)<br>
  
 
