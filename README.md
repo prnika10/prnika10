@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there I am Prnika  <img src ="https://media.tenor.com/images/1f800d805cf1758823b8afd7636c6ff5/tenor.gif" width="80"</h1>
+<h1 align="center"> Hi there,I am Prnika  <img src ="https://media.tenor.com/images/1f800d805cf1758823b8afd7636c6ff5/tenor.gif" width="80"</h1>
 
 
 <h2 align="center"> Anything is possible! <img src="https://media4.giphy.com/media/Qakyyrk1IKwuK8YtQ6/giphy.gif" width="50"></h3>
@@ -12,7 +12,7 @@
 ![](https://komarev.com/ghpvc/?username=prnika10&color=orange) 
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prnika10&layout=compact)](https://github.com/prnika10/github-readme-stats) 
-<img align="right" src="https://cdn.dribbble.com/users/4363684/screenshots/9638918/media/5931834289e76b81c9415e6f6ef32f5a.gif" width="400">
+<img align="right" src="https://cdn.dribbble.com/users/4363684/screenshots/9638918/media/5931834289e76b81c9415e6f6ef32f5a.gif" width="600">
 
 
  
