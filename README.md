@@ -76,6 +76,7 @@
 
 
 
+![](https://github-profile-trophy.vercel.app/?username=prnika10=2&column=3)
 
 
 
