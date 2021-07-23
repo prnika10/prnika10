@@ -57,7 +57,7 @@
 
 
 
-![](https://github-profile-trophy.vercel.app/?username=prnika10&column=3)
+
 
 
 
@@ -71,6 +71,7 @@
 
 
 <img align="center" src="https://media2.giphy.com/media/U7bl3Rw7ya7isgzVt3/giphy.gif?cid=ecf05e474xnhe4tjoymga3vh0aji6cqy8ceis9emjcvxwhgf&rid=giphy.gif" width="300">
+
 
 
 
