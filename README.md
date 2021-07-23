@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there I am Prnika  <img src ="https://media.tenor.com/images/1f800d805cf1758823b8afd7636c6ff5/tenor.gif" width="80"</h1>
 
 
-<h3 align="center"> Anything is possible! <img src="https://media4.giphy.com/media/Qakyyrk1IKwuK8YtQ6/giphy.gif" width="50"></h3>
+<h2 align="center"> Anything is possible! <img src="https://media4.giphy.com/media/Qakyyrk1IKwuK8YtQ6/giphy.gif" width="50"></h3>
 
 
 
