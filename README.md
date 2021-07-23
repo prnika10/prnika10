@@ -27,8 +27,11 @@
 - 🎖**Responsibilities**:<br>
  BETA Microsoft Learn Student Ambassador[@Microsoft](https://studentambassadors.microsoft.com/en-US/profile/55368)<br> 
  Former Google Developers Student Club Lead (2020-2021)[@GoogleDevelopers](https://dsc.community.dev/u/m4eyp5/)<br>
-- ⚡**Fun fact**:<br> 
- ***Headphones in Problems out❤***!!!<br>
+- ⚡**Fun fact about me**:<br> 
+ Blindfold coder<br>
+ Freelancer
+ Digital Planner maker can check my work [here](https://www.fiverr.com/share/0eLKLL)<br>
+ 
 
 
 
