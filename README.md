@@ -25,10 +25,10 @@
  Udacity **Suse Cloud Native** winner<br>
  Udacity **AWS** in Machine Learning winner<br>
 - 🎖**Responsibilities**:<br>
- **BETA Microsoft Learn Student Ambassador**[@Microsoft](https://studentambassadors.microsoft.com/en-US/profile/55368)<br> 
- **Former Google Developers Student Club Lead**[@GoogleDevelopers](https://dsc.community.dev/u/m4eyp5/)<br>
+ BETA Microsoft Learn Student Ambassador[@Microsoft](https://studentambassadors.microsoft.com/en-US/profile/55368)<br> 
+ Former Google Developers Student Club Lead (2020-2021)[@GoogleDevelopers](https://dsc.community.dev/u/m4eyp5/)<br>
 - ⚡**Fun fact**:<br> 
- **Headphones in Problems out❤!!!**<br>
+ ***Headphones in Problems out❤***!!!<br>
 
 
 
