@@ -12,7 +12,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=prnika10)
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prnika10&layout=compact)](https://github.com/prnika10/github-readme-stats) 
-<img align="right" src="https://media.giphy.com/media/57nf4oyyMmZ2L9QqJN/giphy.gif" width="500">
+<img align="right" src="https://dribbble.com/shots/4789906-Hi?utm_source=Clipboard_Shot&utm_campaign=daniserpa&utm_content=Hi!&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=daniserpa&utm_content=Hi!&utm_medium=Social_Share" width="500">
 
 
  
