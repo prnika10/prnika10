@@ -5,12 +5,7 @@
 
 
  <h3 align="center"> 🎤Public Speaker  👩🏻‍💻CoderGirl  📝Technical Writer </h3>
- <p align="center">
- <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><br><br>
-  <img src="https://camo.githubusercontent.com/936a08778c7e4885053d148c07bbd2339dfbdd80/68747470733a2f2f6665726f73732e6e65742f782f6e6f6465322e676966" /><br><br>
-  <img src="https://little.kylerconway.com/images/golang-what.gif" width="300"><img src="https://intro.rustbridge.com/img/ferris.gif" width="300">
-</p>
-
+ 
 ![skills](https://user-images.githubusercontent.com/62280849/128818562-70231940-5df0-493f-ab0c-209e71ee77c5.png)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=prnika10)
