@@ -77,11 +77,11 @@
 
 </p>
 
-<img align="left" src="https://media2.giphy.com/media/U7bl3Rw7ya7isgzVt3/giphy.gif?cid=ecf05e474xnhe4tjoymga3vh0aji6cqy8ceis9emjcvxwhgf&rid=giphy.gif" width="300">
+<img align="left" src="https://media2.giphy.com/media/U7bl3Rw7ya7isgzVt3/giphy.gif?cid=ecf05e474xnhe4tjoymga3vh0aji6cqy8ceis9emjcvxwhgf&rid=giphy.gif" width="200">
 
 
 
-<img align="center" src="https://user-images.githubusercontent.com/62280849/128851216-12e3275f-6b36-4f6b-8fa5-11ec2244bfc6.gif" width="300">
+<img align="center" src="https://user-images.githubusercontent.com/62280849/128851216-12e3275f-6b36-4f6b-8fa5-11ec2244bfc6.gif" width="200">
 
 
 
