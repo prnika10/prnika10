@@ -72,7 +72,7 @@
 <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/-Canva-20c4cb?style=flat-square&logo=canva&logoColor=white" height="25"> <br>
 <img src="https://img.shields.io/badge/-Illustrator-ff9a00?style=flat-square&logo=adobe-illustrator&logoColor=white" height="25">
-<img src=" https://img.shields.io/badge/-Starbucks-006241?style=for-the-badge&logo=Starbucks&logoColor=black" height="25">
+<img src="https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=#5FCFEE" height="25">
 
 </p>
 
