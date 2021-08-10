@@ -6,7 +6,7 @@
 
  <h3 align="center"> 🎤Public Speaker  👩🏻‍💻CoderGirl  📝Technical Writer </h3>
 
-<img align="center" src="https://drive.google.com/file/d/1vDJ_gIhb9IefjLAKx9LZ1wVsuIa4900g/view?usp=sharing.png" width="500">
+![skills](https://user-images.githubusercontent.com/62280849/128818562-70231940-5df0-493f-ab0c-209e71ee77c5.png)
 
 ![](https://komarev.com/ghpvc/?username=prnika10&color=orange) 
 
