@@ -32,12 +32,12 @@
 - 🖥 **What I am upto**:<br>
  --> Presently I am improving my ***coding skills***<br>
 - 🏆**Scholarships**:<br>
- --> Udacity **Bertelsmann Cloud Track** winner<br>
+ --> Udacity **Bertelsmann Cloud Track**  winner<br>
  --> Udacity **Suse Cloud Native** winner<br>
  --> Udacity **AWS** in Machine Learning winner<br>
 - 🎖**Responsibilities**:<br>
  --> GOLD Microsoft Learn Student Ambassador[@Microsoft](https://studentambassadors.microsoft.com/en-US/profile/55368)<br> 
- --> Former Google Developers Student Club Lead (2020-2021)[@GoogleDevelopers](https://gdsc.community.dev/u/m4eyp5/#/about)<br>
+ --> Former Google Developers Student Club Lead   (2020-2021)[@GoogleDevelopers](https://gdsc.community.dev/u/m4eyp5/#/about)<br>
  - ⚡**Fun fact about me**:<br> 
  --> Blindfold coder<br>
  --> Freelancer<br>
