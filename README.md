@@ -6,7 +6,6 @@
 
  <h3 align="center"> 🎤Public Speaker  👩🏻‍💻CoderGirl  📝Technical Writer </h3>
  
-![skills](https://user-images.githubusercontent.com/62280849/128818562-70231940-5df0-493f-ab0c-209e71ee77c5.png)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=prnika10)
 
