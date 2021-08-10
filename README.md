@@ -25,7 +25,7 @@
  
 - 🔭 **Studying**:<br>
  ✓I’m currently pursuing Bachelor's in **Information Technology**<br>
-- 🖥**What I am upto**:<br>
+- 🖥 **What I am upto**:<br>
  Presently I am improving my ***coding skills***<br>
 - 🏆**Scholarships**:<br>
  Udacity **Bertelsmann Cloud Track** winner<br>
