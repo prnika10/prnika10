@@ -12,7 +12,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=prnika10)
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prnika10&layout=compact)](https://github.com/prnika10/github-readme-stats) 
-<img align="right" src="https://user-images.githubusercontent.com/62280849/128828571-d5403c3c-3fa4-46bd-ac35-7d23ee4cc25b.gif" width="500">
+<img align="right" src="https://user-images.githubusercontent.com/62280849/128828727-4ca96711-9666-4acb-bcd6-6cba15f9626b.gif" width="500">
 
 
  
