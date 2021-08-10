@@ -5,7 +5,7 @@
 
 
  <h3 align="center"> 🎤Public Speaker  👩🏻‍💻CoderGirl  📝Technical Writer </h3>
- <img align="center" src="https://user-images.githubusercontent.com/62280849/128822710-6cd2b88f-aaa5-481d-9432-e9c5422abd02.gif" width="1000">
+ <img align="center" src="https://user-images.githubusercontent.com/62280849/128823264-f558b50c-f5c2-411d-81b4-393402e9f8bf.gif" width="1000">
 
  
 
