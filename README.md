@@ -85,8 +85,7 @@
 
 
 
-<img align="center" src="https://user-images.githubusercontent.com/62280849/128851760-f41252ac-9b36-4a01-88ba-3a87be0be200.gif" width="200"><br>
-<img align="right" src="https://user-images.githubusercontent.com/62280849/128853969-84ff61d3-28c0-418d-9946-341ea61c7dce.gif" width="200">
+<img align="center" src="https://user-images.githubusercontent.com/62280849/128851760-f41252ac-9b36-4a01-88ba-3a87be0be200.gif" width="200"><img align="right" src="https://user-images.githubusercontent.com/62280849/128853969-84ff61d3-28c0-418d-9946-341ea61c7dce.gif" width="200">
 
 
 
