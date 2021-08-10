@@ -5,14 +5,14 @@
 
 
  <h3 align="center"> 🎤Public Speaker  👩🏻‍💻CoderGirl  📝Technical Writer </h3>
- <img align="center" src="https://user-images.githubusercontent.com/62280849/128822710-6cd2b88f-aaa5-481d-9432-e9c5422abd02.gif" width="200">
+ <img align="center" src="https://user-images.githubusercontent.com/62280849/128822710-6cd2b88f-aaa5-481d-9432-e9c5422abd02.gif" width="500">
 
  
 
 ![](https://visitor-badge.glitch.me/badge?page_id=prnika10)
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prnika10&layout=compact)](https://github.com/prnika10/github-readme-stats) 
-<img align="right" src="https://user-images.githubusercontent.com/62280849/128822161-30410860-8760-40f3-8f84-0a7dc4e0516d.gif" width="500">
+<img align="right" src="https://user-images.githubusercontent.com/62280849/128822161-30410860-8760-40f3-8f84-0a7dc4e0516d.gif" width="300">
 
 
  
