@@ -22,7 +22,7 @@
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prnika10&layout=compact)](https://github.com/prnika10/github-readme-stats) 
 
-<img align="right" src="https://user-images.githubusercontent.com/62280849/128852108-0399c572-52da-4429-a1fb-744938f608a5.gif" width="500">
+<img align="right" src="https://user-images.githubusercontent.com/62280849/128852601-727f781b-9421-4ced-a904-5faeec9aa138.gif" width="500">
 
 
  
