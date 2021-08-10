@@ -24,25 +24,25 @@
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prnika10&layout=compact)](https://github.com/prnika10/github-readme-stats) 
 
-<img align="right" src="https://user-images.githubusercontent.com/62280849/128852791-6fb73a65-29a6-4c5e-84c5-e8372ac2bd77.gif" width="500">
+<img align="right" src="https://user-images.githubusercontent.com/62280849/128852791-6fb73a65-29a6-4c5e-84c5-e8372ac2bd77.gif" width="600">
 
 
  
 - 🔭 **Studying**:<br>
  ✓I’m currently pursuing Bachelor's in **Information Technology**<br>
 - 🖥 **What I am upto**:<br>
- Presently I am improving my ***coding skills***<br>
+ --Presently I am improving my ***coding skills***<br>
 - 🏆**Scholarships**:<br>
- Udacity **Bertelsmann Cloud Track** winner<br>
- Udacity **Suse Cloud Native** winner<br>
- Udacity **AWS** in Machine Learning winner<br>
+ --Udacity **Bertelsmann Cloud Track** winner<br>
+ --Udacity **Suse Cloud Native** winner<br>
+ --Udacity **AWS** in Machine Learning winner<br>
 - 🎖**Responsibilities**:<br>
- GOLD Microsoft Learn Student Ambassador[@Microsoft](https://studentambassadors.microsoft.com/en-US/profile/55368)<br> 
- Former Google Developers Student Club Lead (2020-2021)[@GoogleDevelopers](https://gdsc.community.dev/u/m4eyp5/#/about)<br>
+ --GOLD Microsoft Learn Student Ambassador[@Microsoft](https://studentambassadors.microsoft.com/en-US/profile/55368)<br> 
+ --Former Google Developers Student Club Lead (2020-2021)[@GoogleDevelopers](https://gdsc.community.dev/u/m4eyp5/#/about)<br>
  - ⚡**Fun fact about me**:<br> 
- Blindfold coder<br>
- Freelancer<br>
- Digital Planner maker can check my work [here](https://www.fiverr.com/share/0eLKLL)<br>
+ --Blindfold coder<br>
+ --Freelancer<br>
+ --Digital Planner maker can check my work [here](https://www.fiverr.com/share/0eLKLL)<br>
 
 
 
