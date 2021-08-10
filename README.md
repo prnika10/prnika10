@@ -41,20 +41,10 @@
 
 
 - 📫 **How to reach me** :<br>
-<p align="center">
-<a href="https://www.linkedin.com/in/prnika-bakshi-she-her-562654167?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BwGSoCCh7SQ6rTmhhHs793A%3D%3D">
-  <img align="left" src="https://img.icons8.com/plasticine/100/000000/linkedin.png" height="50" width="50" ></a>
-<a href="https://medium.com/@prnikaa" >
-  <img align="left"src="https://img.icons8.com/bubbles/50/000000/medium-new.png" height="50" width="50" ></a>
- <a href="mailto:prnikaa@gmail.com" >
-  <img align="left" src="https://img.icons8.com/dusk/50/000000/gmail-login.png" height="40" width="40" ></a>
-   <a href="http://memyselfpb.blogspot.com/" >
-  <img align="left" src="https://img.icons8.com/color/48/000000/reading-unicorn.png" height="40" width="50" ></a>
-</a>
-</p>
 
-<h3>Where to find me</h3>
-<p><a href="https://github.com/prnika10" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /><a href="https://www.linkedin.com/in/prnika-bakshi-she-her-562654167?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BwGSoCCh7SQ6rTmhhHs793A%3D%3D" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@prnikaa" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+
+
+<p><a href="https://github.com/prnika10" target="_blank"> <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /> <a href="https://www.linkedin.com/in/prnika-bakshi-she-her-562654167?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BwGSoCCh7SQ6rTmhhHs793A%3D%3D" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@prnikaa" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
 
