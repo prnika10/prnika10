@@ -5,12 +5,12 @@
 
 
  <h3 align="center"> 🎤Public Speaker 👩🏻‍💻CoderGirl  📝Technical Writer </h3>
- - 📫 **How to reach me** :<br>
 
- <h4 align="left"> 📫 **How to reach me** </h4>
+
+ <h4 align="left"> 📫 How to reach me </h4>
 
 <p>
- <a href="https://github.com/prnika10" target="_blank"> <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /> <a href="https://www.linkedin.com/in/prnika-bakshi-she-her-562654167?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BwGSoCCh7SQ6rTmhhHs793A%3D%3D" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@prnikaa" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> <a target="_blank" href="mailto:prnikaa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a> <a target="_blank" href="http://memyselfpb.blogspot.com/"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a>
+<a href="https://github.com/prnika10" target="_blank"> <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /> <a href="https://www.linkedin.com/in/prnika-bakshi-she-her-562654167?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BwGSoCCh7SQ6rTmhhHs793A%3D%3D" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@prnikaa" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> <a target="_blank" href="mailto:prnikaa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a> <a target="_blank" href="http://memyselfpb.blogspot.com/"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a>
 </p>
  <img align="center" src="https://user-images.githubusercontent.com/62280849/128824665-68c0f283-7ab5-4da7-9576-6ecf8879dbfe.gif" width="1000">
 
@@ -48,12 +48,7 @@
 
 
 
-- 📫 **How to reach me** :<br>
 
-
-
-<p><a href="https://github.com/prnika10" target="_blank"> <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /> <a href="https://www.linkedin.com/in/prnika-bakshi-she-her-562654167?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BwGSoCCh7SQ6rTmhhHs793A%3D%3D" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@prnikaa" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> <a target="_blank" href="mailto:prnikaa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a> <a target="_blank" href="http://memyselfpb.blogspot.com/"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a>
-</p>
 
 
 
