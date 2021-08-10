@@ -8,7 +8,7 @@
 
 ![skills](https://user-images.githubusercontent.com/62280849/128818562-70231940-5df0-493f-ab0c-209e71ee77c5.png)
 
-![](https://komarev.com/ghpvc/?username=prnika10&color=orange) 
+![](https://visitor-badge.glitch.me/badge?page_id=prnika10)
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prnika10&layout=compact)](https://github.com/prnika10/github-readme-stats) 
 <img align="right" src="https://cdn.dribbble.com/users/4363684/screenshots/9638918/media/5931834289e76b81c9415e6f6ef32f5a.gif" width="500">
