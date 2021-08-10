@@ -4,7 +4,7 @@
 <h2 align="center"> Anything is possible! <img src="https://media4.giphy.com/media/Qakyyrk1IKwuK8YtQ6/giphy.gif" width="50"></h2>
 
 
- <h3 align="center"> 🎤Public Speaker  👩🏻‍💻CoderGirl  📝Technical Writer </h3>
+ <h3 align="center"> 🎤Public Speaker 👩🏻‍💻CoderGirl  📝Technical Writer </h3>
  <img align="center" src="https://user-images.githubusercontent.com/62280849/128824665-68c0f283-7ab5-4da7-9576-6ecf8879dbfe.gif" width="1000">
 
  
