@@ -13,7 +13,6 @@
 <a href="https://github.com/prnika10" target="_blank"> <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /> <a href="https://www.linkedin.com/in/prnika-bakshi-she-her-562654167?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BwGSoCCh7SQ6rTmhhHs793A%3D%3D" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@prnikaa" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> <a target="_blank" href="mailto:prnikaa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a> <a target="_blank" href="http://memyselfpb.blogspot.com/"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></img></a>
 
 </p>
-![](https://komarev.com/ghpvc/?username=prnika10 &color=green)
 
 
  <img align="center" src="https://user-images.githubusercontent.com/62280849/128824665-68c0f283-7ab5-4da7-9576-6ecf8879dbfe.gif" width="1000">
@@ -31,18 +30,18 @@
 - 🔭 **Studying**:<br>
  ✓I’m currently pursuing Bachelor's in **Information Technology**<br>
 - 🖥 **What I am upto**:<br>
- --Presently I am improving my ***coding skills***<br>
+ --> Presently I am improving my ***coding skills***<br>
 - 🏆**Scholarships**:<br>
- --Udacity **Bertelsmann Cloud Track** winner<br>
- --Udacity **Suse Cloud Native** winner<br>
- --Udacity **AWS** in Machine Learning winner<br>
+ --> Udacity **Bertelsmann Cloud Track** winner<br>
+ --> Udacity **Suse Cloud Native** winner<br>
+ --> Udacity **AWS** in Machine Learning winner<br>
 - 🎖**Responsibilities**:<br>
- --GOLD Microsoft Learn Student Ambassador[@Microsoft](https://studentambassadors.microsoft.com/en-US/profile/55368)<br> 
- --Former Google Developers Student Club Lead (2020-2021)[@GoogleDevelopers](https://gdsc.community.dev/u/m4eyp5/#/about)<br>
+ --> GOLD Microsoft Learn Student Ambassador[@Microsoft](https://studentambassadors.microsoft.com/en-US/profile/55368)<br> 
+ --> Former Google Developers Student Club Lead (2020-2021)[@GoogleDevelopers](https://gdsc.community.dev/u/m4eyp5/#/about)<br>
  - ⚡**Fun fact about me**:<br> 
- --Blindfold coder<br>
- --Freelancer<br>
- --Digital Planner maker can check my work [here](https://www.fiverr.com/share/0eLKLL)<br>
+ --> Blindfold coder<br>
+ --> Freelancer<br>
+ --> Digital Planner maker can check my work [here](https://www.fiverr.com/share/0eLKLL)<br>
 
 
 
