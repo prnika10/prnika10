@@ -26,7 +26,7 @@
  Udacity **AWS** in Machine Learning winner<br>
 - 🎖**Responsibilities**:<br>
  GOLD Microsoft Learn Student Ambassador[@Microsoft](https://studentambassadors.microsoft.com/en-US/profile/55368)<br> 
- Former Google Developers Student Club Lead (2020-2021)[@GoogleDevelopers](https://dsc.community.dev/u/m4eyp5/)<br>
+ Former Google Developers Student Club Lead (2020-2021)[@GoogleDevelopers](https://user-images.githubusercontent.com/62280849/128823264-f558b50c-f5c2-411d-81b4-393402e9f8bf.gif))<br>
  - ⚡**Fun fact about me**:<br> 
  Blindfold coder<br>
  Freelancer<br>
