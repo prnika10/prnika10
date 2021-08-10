@@ -81,11 +81,7 @@
 
 
 
-<img align="center" src="https://user-images.githubusercontent.com/62280849/128851216-12e3275f-6b36-4f6b-8fa5-11ec2244bfc6.gif" width="200">
-
-
-
-
+<img align="center" src="https://user-images.githubusercontent.com/62280849/128851760-f41252ac-9b36-4a01-88ba-3a87be0be200.gif" width="200">
 
 
 
