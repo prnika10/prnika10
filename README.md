@@ -81,7 +81,7 @@
 
 
 
-<img align="center" src="<div class="tenor-gif-embed" data-postid="8105026" data-share-method="host" data-aspect-ratio="1.505" data-width="100%"><a href="https://tenor.com/view/pusheen-laptop-typing-cat-gif-8105026">Pusheen Laptop GIF</a>from <a href="https://tenor.com/search/pusheen-gifs">Pusheen GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>" width="300">
+<img align="center" src="https://user-images.githubusercontent.com/62280849/128851216-12e3275f-6b36-4f6b-8fa5-11ec2244bfc6.gif" width="300">
 
 
 
