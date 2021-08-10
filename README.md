@@ -13,7 +13,8 @@
 <a href="https://github.com/prnika10" target="_blank"> <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /> <a href="https://www.linkedin.com/in/prnika-bakshi-she-her-562654167?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BwGSoCCh7SQ6rTmhhHs793A%3D%3D" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@prnikaa" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> <a target="_blank" href="mailto:prnikaa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a> <a target="_blank" href="http://memyselfpb.blogspot.com/"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></img></a>
 
 </p>
-![](https://visitor-badge.glitch.me/badge?page_id=prnika10)
+![](https://komarev.com/ghpvc/?username=prnika10&color=ff69b4)
+
  <img align="center" src="https://user-images.githubusercontent.com/62280849/128824665-68c0f283-7ab5-4da7-9576-6ecf8879dbfe.gif" width="1000">
 
  
@@ -22,7 +23,7 @@
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prnika10&layout=compact)](https://github.com/prnika10/github-readme-stats) 
 
-<img align="right" src="https://user-images.githubusercontent.com/62280849/128852601-727f781b-9421-4ced-a904-5faeec9aa138.gif" width="500">
+<img align="right" src="https://user-images.githubusercontent.com/62280849/128852791-6fb73a65-29a6-4c5e-84c5-e8372ac2bd77.gif" width="500">
 
 
  
