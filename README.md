@@ -34,6 +34,7 @@
 - 🖥 **What I am upto**:<br>
  --> Presently I am improving my ***coding skills***<br>
 - 🏆**Scholarships**:<br>
+ -->  **vGHC** scholar'2021<br>
  --> Udacity **Bertelsmann Cloud Track**  winner<br>
  --> Udacity **Suse Cloud Native** winner<br>
  --> Udacity **AWS** in Machine Learning winner<br>
