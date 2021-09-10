@@ -87,6 +87,7 @@
 <img align="left" src="https://media2.giphy.com/media/U7bl3Rw7ya7isgzVt3/giphy.gif?cid=ecf05e474xnhe4tjoymga3vh0aji6cqy8ceis9emjcvxwhgf&rid=giphy.gif" width="200"><img align="center" src="https://user-images.githubusercontent.com/62280849/128851760-f41252ac-9b36-4a01-88ba-3a87be0be200.gif" width="200"><img align="center" src="https://user-images.githubusercontent.com/62280849/128853969-84ff61d3-28c0-418d-9946-341ea61c7dce.gif" width="200"><img align="center" src="https://user-images.githubusercontent.com/62280849/128856930-3f6a5fe7-6756-4907-8a0f-243108548a76.gif" width="150">
 
 
-
-https://raw.githubusercontent.com/prnika10/prnika10/output/github-contribution-grid-snake.svg
+<p align="center">
+  <img src="https://github.com/prnika10/prnika10/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
