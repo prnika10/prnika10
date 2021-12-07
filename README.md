@@ -15,7 +15,7 @@
 </p>
 
 
-![](https://komarev.com/ghpvc/?username=prnika10)
+![](https://komarev.com/ghpvc/?username=prnika10&color=orange)
 
  <img align="center" src="https://user-images.githubusercontent.com/62280849/128824665-68c0f283-7ab5-4da7-9576-6ecf8879dbfe.gif" width="1000">
 
